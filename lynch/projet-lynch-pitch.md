@@ -8,9 +8,11 @@ En s’inspirant de l’aventure hypertextuelle imaginée par Michael Joyce dans
 
   <img src="../assets/images/m_drive.png" alt="text" width="500">
   <figcaption><em>figure 1 : image tirée de Mulholland Drive</em>  </figcaption>
+  
 <br>
+<br>
+
 Le modèle proposé permettrait de lire le scénario du point de vue d’un seul personnage, en isolant, par exemple, les scènes où il apparaît, ou en choisant un parcours à l'encontre de celui du film. Il s’agirait ainsi de donner au lecteur un pouvoir équivalent à celui du montage filmique : celui d’altérer à volonté l’ordre chronologique du récit pour y découvrir, à la manière de Lynch, un autre sens onirique.
-
 <br>
-
+<br>
 [^1]: Cité dans Kirschenbaum, Matthew. 2001. « Materiality and Matter and Stuff: What Electronic Texts Are Made Of ». *Electronic Book Review*, octobre. [link](https://electronicbookreview.com/essay/materiality-and-matter-and-stuff-what-electronic-texts-are-made-of/).
