@@ -2,7 +2,7 @@
 ## La représentation théâtrale comme une collection de fichiers JSON (et, peut-être, une base de données)
 
 
-Avec la numérisation de l’information, le secteur GLAM (*Galleries, Libraries, Archives and Museums*) a dû restructurer ses méthodes de documentation des objets dans ses collections. Parmi d'autres objectifs, la structuration de l’information devrait permettre à la fois l’explorabilité, c’est-à-dire l’identification des objets dans les bases de données numériques à l’aide de méthodes de recherche, et l’interopérabilité, c’est-à-dire la mise en relation automatisée de données similaires présentes dans plusieurs bases distinctes. Pour cela, les informations relatives à une &oelig;ovre ont dû être organisées selon des règles claires et hiérarchisées.
+Avec la numérisation de l’information, le secteur GLAM (*Galleries, Libraries, Archives and Museums*) a dû restructurer ses méthodes de documentation des objets de ses collections. Parmi d'autres objectifs, la structuration de l’information numérique devrait permettre à la fois l’explorabilité, c’est-à-dire l’identification des objets dans les bases de données numériques à l’aide de méthodes de recherche, et l’interopérabilité, c’est-à-dire la mise en relation automatisée de données similaires présentes dans plusieurs bases distinctes. Pour cela, les informations relatives à une &oelig;ovre ont dû être organisées selon des règles claires et hiérarchisées.
 
 La plupart des modèles actuellement implémentés par les musées reposent sur [CIDOC Conceptual Reference Model (CRM)](https://cidoc-crm.org), un outil « théorique et pratique » initialement développé pour décrire les *objets* culturels. Ce modèle utilise un ensemble de *classes* et de *propriétés* afin de décrire un objet ainsi que de documenter ses métadonnées, les personnes impliquées dans sa production, etc. Les extensions et adaptations qui ont suivi ont permis de modéliser des entités culturelles immatérielles, telles que les *événements*, définis comme des activités humaines liées à la culture et limitées dans le temps, par exemple une exposition ou la construction du Louvre. Pour les historiens, la modélisation de ces informations en format numérique rend désormais possible l’usage de méthodes d'analyse quantitative. Cependant, à ce jour, il n’existe pas de modèle communément accepté pour décrire les arts de la scène, et notamment les *spectacles*.
 
@@ -19,7 +19,9 @@ Pour modeliser les représentations théâtrales, nous avons commencé au sein d
 
 Distribués à l’entrée du théâtre, le statut des programmes est d’abord informatif, fournissant aux spectateurs des détails sur les artistes et les institutions impliqués. La représentation terminée, ils deviennent la trace matérielle du spectacle, un marqueur spatiotemporel affirmant qu’un événement réunissant artistes, techniciens, spectateurs, institutions culturelles et producteurs, a bien eu lieu.
 En tant qu’imprimés éphémères, les programmes s’adressent à différents publics. Les spectateurs s’intéressent aux informations pratiques relatives au spectacle, comme le synopsis, les mots-clés ou la note d’intention. Les spectateurs plus « avancés » reconnaissent les noms des scénographes, des musiciens ou d’autres collaborateurs artistiques. Ceux et celles qui travaillent dans l’industrie culturelle portent davantage leur attention sur les structures de production, de financement ou de diffusion. 
-Enfin, dans une perspective de méta-analyse, on peut également s’intéresser aux caractéristiques matérielles de ces documents, telles que le choix du papier, l’imprimerie, ou encore les options graphiques et de mise en page. Y compris dans les designs graphiques les plus expérimentaux, un programme est donc censé pouvoir être lu aisément à tous ces niveaux. Pour le transformer en données, on commence par la labellisation de chaque élément textuel présent dans un programme, en adoptant le point de vue des lecteurs mentionnés ci-dessus. La [figure 1](#figure1) présente un exemple de une telle transformation, à partir d’une page du programme du Festival Off d’Avignon.
+Enfin, dans une perspective de méta-analyse, on peut également s’intéresser aux caractéristiques matérielles de ces documents, telles que le choix du papier, l’imprimerie, ou encore les options graphiques et de mise en page. Y compris dans les designs graphiques les plus expérimentaux, un programme est donc censé pouvoir être lu aisément à tous ces niveaux. 
+
+Pour le transformer en données, on commence par la labellisation de chaque élément textuel présent dans un programme, en adoptant le point de vue des lecteurs mentionnés ci-dessus. La [figure 1](#figure1) présente un exemple de une telle transformation, à partir d’une page du programme du Festival Off d’Avignon.
 
 <br>
 
@@ -41,7 +43,7 @@ Enfin, dans une perspective de méta-analyse, on peut également s’intéresser
 <a id="figure1"></a>
 <figure style="text-align: center;" id="figure1">
   <img src="../assets/images/off13-29.jpg" alt="Alt text" width="500" height="600">
-  <figcaption><em>Figure 1 : Transformation (en haut) de la page 27 du programme général du Festival Off d’Avignon 2013 (en bas).</em>  </figcaption>
+  <figcaption><em>Figure 1 : Transformation (en haut) de la page 27 du programme général du Festival Off d’Avignon 2013 (en bas). Le fichier .csv contient dix colonnes. </em>  </figcaption>
 </figure>
 
 
@@ -62,7 +64,7 @@ Ces trois niveaux permettent de distinguer la production théâtrale de ses repr
 
 <a id="figure2"></a>
 <figure style="text-align: center;" id="figure2">
-  <img src="../assets/images/ontology1.jpg" alt="Alt text" width="330">
+  <img src="../assets/images/ontology1.jpg" alt="Alt text" width="500">
   <figcaption><em>Figure 2 : Hiérarchie entre le niveau A (la mise en scène d’une œuvre conçue par une personne ou un groupe), le niveau B (ses matérialisations) et le niveau C (ses représentations uniques).</em>  </figcaption>
 </figure>
 
@@ -72,7 +74,7 @@ Ces trois niveaux permettent de distinguer la production théâtrale de ses repr
 
 <a id="figure3"></a>
 <figure style="text-align: center;" id="figure3">
-  <img src="../assets/images/B.drawio.png" alt="Alt text" width="400">
+  <img src="../assets/images/B.drawio.png" alt="Alt text" width="500">
   <figcaption><em>Figure 3: Visualisations des liens reliant une activité (une production théâtrale) à ses autres classes, comme lieux, artistes, &oelig;uvres, conception. </em> </figcaption>
 </figure>
 
