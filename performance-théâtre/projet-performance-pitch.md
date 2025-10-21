@@ -32,12 +32,14 @@ Enfin, dans une perspective de méta-analyse, on peut également s’intéresser
 | Le tandem en folie | Trois  femmes partent en voyage direction la mer *(...)* |*(...)* Interprètes : Magali Espitalier *(...)*| 35 | 27| À LA VOLÉE DU MONDE
 | La forêt des mille et une vies | Dans cette forêt immense, habite le peuple *(...)* |*(...)* Interprètes : Chantal CORBINEAU *(...)*| 40 | 27| À LA VOLÉE DU MONDE
 | Le journal d’une femme de chambre | Célestine n’a pas la langue dans sa poche *(...)* |*(...)* Interprète : Marie Strehaiano *(...)*| 70 | 27| À LA VOLÉE DU MONDE
-
 </div>
+
+
+
 
 <a id="figure1"></a>
 <figure style="text-align: center;" id="figure1">
-  <img src="../assets/images/off13-29.jpg" alt="Alt text" width="450" height="500">
+  <img src="../assets/images/off13-29.jpg" alt="Alt text" width="500" height="600">
   <figcaption><em>Figure 1 : Transformation (en haut) de la page 27 du programme général du Festival Off d’Avignon 2013 (en bas).</em>  </figcaption>
 </figure>
 
@@ -57,7 +59,7 @@ Ces trois niveaux permettent de distinguer la production théâtrale de ses repr
 
 
 
-
+<a id="figure2"></a>
 <figure style="text-align: center;" id="figure2">
   <img src="../assets/images/ontology1.jpg" alt="Alt text" width="330">
   <figcaption><em>Figure 2 : Hiérarchie entre le niveau A (la mise en scène d’une œuvre conçue par une personne ou un groupe), le niveau B (ses matérialisations) et le niveau C (ses représentations uniques).</em>  </figcaption>
@@ -67,12 +69,13 @@ Ces trois niveaux permettent de distinguer la production théâtrale de ses repr
 
 
 
-
+<a id="figure3"></a>
 <figure style="text-align: center;" id="figure3">
   <img src="../assets/images/B.drawio.png" alt="Alt text" width="400">
   <figcaption><em>Figure 3: Visualisations des liens reliant une activité (une production théâtrale) à ses autres classes, comme lieux, artistes, &oelig;uvres, conception. </em> </figcaption>
 </figure>
 
+<a id="figure4"></a>
 <pre style="overflow-x: auto; background:#f8f8f8; padding:10px; width:600px;" id="figure4">
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
