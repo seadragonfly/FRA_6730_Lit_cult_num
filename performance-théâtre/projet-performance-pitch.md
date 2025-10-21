@@ -35,6 +35,7 @@ Enfin, dans une perspective de méta-analyse, on peut également s’intéresser
 
 </div>
 
+<a id="figure1"></a>
 <figure style="text-align: center;" id="figure1">
   <img src="../assets/images/off13-29.jpg" alt="Alt text" width="450" height="500">
   <figcaption><em>Figure 1 : Transformation (en haut) de la page 27 du programme général du Festival Off d’Avignon 2013 (en bas).</em>  </figcaption>
