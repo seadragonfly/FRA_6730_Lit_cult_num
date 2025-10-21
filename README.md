@@ -1,8 +1,7 @@
 ## Séminaire FRA6730 — Littérature et culture numérique
 ##### UdeM automne 2025
 
-Ce répo contient l'ensemble des documents et d'images 
-This repo containes the ressources of the sémianre séminaire FRA6730 (Littérature et culture numérique).
+Ce répo contient l'ensemble des documents et d'images liés au séminaire FRA6730 (Littérature et culture numérique).
 
 ### octobre 2025 - proposition du projet de semestre
 
