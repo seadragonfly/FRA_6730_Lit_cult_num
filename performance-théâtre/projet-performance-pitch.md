@@ -1,5 +1,6 @@
 <!--- useful characters \ « »| for .md -->
-## La représentation théâtrale comme une collection de fichiers JSON (et une base de données?)
+## La représentation théâtrale comme une collection de fichiers JSON (et, peut-être, une base de données)
+
 
 Avec la numérisation de l’information, le secteur GLAM (*Galleries, Libraries, Archives and Museums*) a dû restructurer ses méthodes de documentation des objets dans ses collections. Parmi d'autres objectifs, la structuration de l’information devrait permettre à la fois l’explorabilité, c’est-à-dire l’identification des objets dans les bases de données numériques à l’aide de méthodes de recherche, et l’interopérabilité, c’est-à-dire la mise en relation automatisée de données similaires présentes dans plusieurs bases distinctes. Pour cela, les informations relatives à une &oelig;ovre ont dû être organisées selon des règles claires et hiérarchisées.
 
