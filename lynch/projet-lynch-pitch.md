@@ -1,4 +1,4 @@
-### Modéliser le chaos lynchien 
+## Modéliser le chaos lynchien 
 
 Les films de David Lynch constituent un labyrinthe à la fois conceptuel et visuel. Pour les spectateurs, critiques et théoriciens du cinéma, donner sens au montage de ses œuvres et aux transitions inattendues de ses dispositifs narratifs représente souvent une mission impossible. Lorsqu’on l’interrogeait à ce sujet, avant sa mort recente, Lynch répondait que ses idées lui venaient en rêve, refusant d'« expliquer » ses films. Pour lui, les films sont des objet d’art « autonomes » qui n’ont pas besoin de discours interprétatif.
 
