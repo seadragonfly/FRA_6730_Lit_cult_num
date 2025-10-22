@@ -1,7 +1,7 @@
 ## Séminaire FRA6730 — Littérature et culture numérique
 ##### UdeM automne 2025
 
-Cela contient l'ensemble des documents et d'images liés au séminaire FRA6730 (Littérature et culture numérique).
+Ce dépôt contient l'ensemble des documents et d'images liés au séminaire FRA6730 (Littérature et culture numérique).
 
 ### oct. 2025 - proposition du projet de semestre
 
