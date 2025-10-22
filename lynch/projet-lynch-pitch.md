@@ -7,7 +7,7 @@ Comment donc lire les scénarios de tels films ? Une lecture linéaire, page apr
 En s’inspirant de l’aventure hypertextuelle mise en forme par Michael Joyce dans *afternoon*[^1], un texte numérique où le lecteur choisit la progression du récit et détermine ainsi sa fin, je proposerais une modélisation du scénario de *Mulholland Drive* (2001). Dans le film, l’un des plus « chaotiques » du réalisateur, une métamorphose s’opère : les personnages se transforment au milieu du film, et obtiennent une nouvelle vie, un autre passé et de nouveaux objectifs.
 
   <img src="../assets/images/m_drive.png" alt="text" width="500">
-  <figcaption><em>figure 1 : image tirée de Mulholland Drive</em>  </figcaption>
+  <figcaption><em>figure 1 : image tirée de </em> Mulholland Drive </figcaption>
   
 <br>
 <br>
